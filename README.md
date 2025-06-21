@@ -3,13 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do brasil. Estou concluido o ensino médio, com o curso técnico em desenvolvimento de sistemas. Futuramento, vou está cursando Análise e Desenvolvimento de Sistemas em algum sistema academico. Sou apaixonado por tecnologia e compartilho meu conhecimento através desse canal do github, onde eu aprendi a criar projetos web encluindo o funcionamento de API,SGDB,Backend e frontend, e também através do Instagram, com o perfil chamado "[Nauanzix_01](https://www.instagram.com/nauanzinx_01/)".
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -115,14 +108,14 @@ Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do bra
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=witanauan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=witanauan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
