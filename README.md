@@ -1,17 +1,10 @@
 # 👩🏻‍💻 witanauan
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do brasil. Estou concluido o ensino médio, com o curso técnico em desenvolvimento de sistemas. Futuramento, vou está cursando Análise e Desenvolvimento de Sistemas em algum sistema academico. Sou apaixonado por tecnologia e compartilho meu conhecimento através desse canal do github, onde eu aprendi a criar projetos web encluindo o funcionamento de API,SGDB,Backend e frontend, e também através do Instagram, com o perfil chamado "[Nauanzix_01](https://www.instagram.com/nauanzinx_01/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
