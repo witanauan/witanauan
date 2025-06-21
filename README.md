@@ -3,23 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do brasil. Estou concluido o ensino médio, com o curso técnico em desenvolvimento de sistemas. Futuramento, vou está cursando Análise e Desenvolvimento de Sistemas em algum sistema academico. Sou apaixonado por tecnologia e compartilho meu conhecimento através desse canal do github, onde eu aprendi a criar projetos web encluindo o funcionamento de API,SGDB,Backend e frontend, e também através do Instagram, com o perfil chamado "[Nauanzix_01](https://www.instagram.com/nauanzinx_01/)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
