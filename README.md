@@ -8,6 +8,8 @@ Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do bra
 
 ### 🤖 Linguagens e Tecnologias
 
+<br>
+
 <img 
     align="left" 
     alt="HTML"
