@@ -47,7 +47,7 @@ Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do bra
     alt="Node.js" 
     title="Node.js" 
     width="60px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color: #f3f3f3; border-radius: 8px; padding: 5px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
