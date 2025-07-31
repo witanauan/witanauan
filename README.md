@@ -52,14 +52,6 @@ Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do bra
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -73,14 +65,6 @@ Me chamo witanauan, tenho 17 anos e sou natural de Pernambuco do nordeste do bra
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
